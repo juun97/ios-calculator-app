@@ -2,7 +2,7 @@
 
 
 ## 접니다 👀
- <center> [릴라](https://github.com/juun97)</center> |
+| <center> [릴라](https://github.com/juun97)</center> |
 | --- | 
 |<img width="200" alt="image" src=https://cdn.discordapp.com/attachments/1054218081787973662/1058207490296262665/KakaoTalk_Image_2022-12-23-11-04-10.png> | 
 
